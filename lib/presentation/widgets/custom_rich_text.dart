@@ -1,6 +1,6 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
 
 
 

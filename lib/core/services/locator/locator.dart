@@ -1,7 +1,7 @@
 
 import 'package:get_it/get_it.dart';
 import 'package:injectable/injectable.dart';
-import 'package:tamalok/core/services/locator/locator.config.dart';
+import 'package:forsan/core/services/locator/locator.config.dart';
 
 
 final locator = GetIt.instance;

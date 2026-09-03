@@ -4,8 +4,8 @@
 // import 'package:flutter_bloc/flutter_bloc.dart';
 // import 'package:flutter_svg/flutter_svg.dart';
 // import 'package:icons_plus/icons_plus.dart';
-// import 'package:tamalok/core/constants/api_endpoints.dart';
-// import 'package:tamalok/core/extension/image_type_extension.dart';
+// import 'package:forsan/core/constants/api_endpoints.dart';
+// import 'package:forsan/core/extension/image_type_extension.dart';
 // import 'package:skeletonizer/skeletonizer.dart';
 // import 'package:video_player/video_player.dart';
 // import '../../core/resources/app_colors.dart';

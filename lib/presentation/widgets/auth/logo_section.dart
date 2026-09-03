@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:tamalok/core/resources/app_assets.dart';
-import 'package:tamalok/core/resources/app_values.dart';
-import 'package:tamalok/presentation/widgets/image_view.dart';
+import 'package:forsan/core/resources/app_assets.dart';
+import 'package:forsan/core/resources/app_values.dart';
+import 'package:forsan/presentation/widgets/image_view.dart';
 
 class LogoSection extends StatelessWidget {
   const LogoSection({super.key});

@@ -1,7 +1,7 @@
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/routes/app_routes_imports.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/routes/app_routes_imports.dart';
 import 'package:flutter/material.dart';
-import 'package:tamalok/core/resources/app_values.dart';
+import 'package:forsan/core/resources/app_values.dart';
 
 class AnimatedBanner extends StatefulWidget {
   final String message;

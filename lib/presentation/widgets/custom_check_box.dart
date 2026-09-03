@@ -1,5 +1,5 @@
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/presentation/cubit/check_box/check_box_cubit.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/presentation/cubit/check_box/check_box_cubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

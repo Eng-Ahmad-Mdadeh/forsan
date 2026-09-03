@@ -1,7 +1,7 @@
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/core/routes/app_routes_imports.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/core/routes/app_routes_imports.dart';
 
 class CustomSwitch extends StatelessWidget {
   final String title;

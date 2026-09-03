@@ -1,15 +1,15 @@
 import 'dart:developer';
-import 'package:tamalok/core/resources/app_values.dart';
-import 'package:tamalok/presentation/cubit/location/location_cubit.dart';
+import 'package:forsan/core/resources/app_values.dart';
+import 'package:forsan/presentation/cubit/location/location_cubit.dart';
 import 'package:flutter_google_maps_webservices/places.dart' as we;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:tamalok/core/constants/app_constants.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
+import 'package:forsan/core/constants/app_constants.dart';
+import 'package:forsan/core/resources/app_colors.dart';
 
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 import 'package:google_maps_place_picker_mb_v2/google_maps_place_picker.dart';
 
 class MapPicker extends StatelessWidget {

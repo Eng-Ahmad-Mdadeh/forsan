@@ -1,6 +1,6 @@
 // import 'package:flutter/foundation.dart';
 // import 'package:flutter_local_notifications/flutter_local_notifications.dart';
-// import 'package:tamalok/core/utils/pusher_service.dart';
+// import 'package:forsan/core/utils/pusher_service.dart';
 //
 // class PusherNotificationsHandler {
 //   static final PusherNotificationsHandler _instance = PusherNotificationsHandler._internal();

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:go_router/go_router.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 import '../../core/resources/app_fonts.dart';
 
 class CustomAnimationDialog {

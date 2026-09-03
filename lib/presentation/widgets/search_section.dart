@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_values.dart';
-import 'package:tamalok/presentation/widgets/animated_visibility_section.dart';
-import 'package:tamalok/presentation/widgets/custom_search.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_values.dart';
+import 'package:forsan/presentation/widgets/animated_visibility_section.dart';
+import 'package:forsan/presentation/widgets/custom_search.dart';
 
 class SearchSection extends StatelessWidget {
   final ValueNotifier<bool> isPaddingVisible;

@@ -2,13 +2,13 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
 import 'package:icons_plus/icons_plus.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_values.dart';
-import 'package:tamalok/core/routes/app_routes.dart';
-import 'package:tamalok/presentation/cubit/bottom_bar/bottom_bar_cubit.dart';
-import 'package:tamalok/presentation/widgets/bottom_nav_bar/bottom_nav_destination.dart';
-import 'package:tamalok/presentation/widgets/bottom_nav_bar/custom_nav_item.dart';
-import 'package:tamalok/presentation/widgets/bottom_nav_bar/primary_nav_item.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_values.dart';
+import 'package:forsan/core/routes/app_routes.dart';
+import 'package:forsan/presentation/cubit/bottom_bar/bottom_bar_cubit.dart';
+import 'package:forsan/presentation/widgets/bottom_nav_bar/bottom_nav_destination.dart';
+import 'package:forsan/presentation/widgets/bottom_nav_bar/custom_nav_item.dart';
+import 'package:forsan/presentation/widgets/bottom_nav_bar/primary_nav_item.dart';
 
 class CustomBottomNavBar extends StatelessWidget {
   const CustomBottomNavBar({required this.navigationShell, super.key});

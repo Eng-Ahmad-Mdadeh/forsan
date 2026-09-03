@@ -1,8 +1,8 @@
 import 'dart:developer' as developer;
 
 import 'package:local_auth/local_auth.dart';
-import 'package:tamalok/core/helper/local_storage_helper.dart';
-import 'package:tamalok/core/services/locator/locator.dart';
+import 'package:forsan/core/helper/local_storage_helper.dart';
+import 'package:forsan/core/services/locator/locator.dart';
 
 class BiometricLockService {
   BiometricLockService({LocalAuthentication? localAuthentication, LocalStorageHelper? storage})

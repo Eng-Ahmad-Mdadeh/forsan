@@ -1,5 +1,5 @@
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 

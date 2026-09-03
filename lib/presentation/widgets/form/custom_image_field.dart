@@ -1,8 +1,8 @@
 import 'package:dotted_border/dotted_border.dart';
 import 'package:icons_plus/icons_plus.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/core/routes/app_routes_imports.dart';
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/core/routes/app_routes_imports.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 import 'dart:ui' as ui;
 
 class CustomImageField extends StatelessWidget {

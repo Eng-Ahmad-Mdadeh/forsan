@@ -1,9 +1,9 @@
 import 'package:animated_custom_dropdown/custom_dropdown.dart';
 import 'package:flutter/material.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_values.dart';
-import 'package:tamalok/presentation/widgets/custom_drop_down_widget.dart';
-import 'package:tamalok/core/extension/localization_extension.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_values.dart';
+import 'package:forsan/presentation/widgets/custom_drop_down_widget.dart';
+import 'package:forsan/core/extension/localization_extension.dart';
 
 import '../../../core/resources/app_fonts.dart';
 import 'custom_input_field.dart';

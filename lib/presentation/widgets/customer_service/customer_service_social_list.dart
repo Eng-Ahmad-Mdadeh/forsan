@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tamalok/core/resources/app_values.dart';
+import 'package:forsan/core/resources/app_values.dart';
 
 class CustomerServiceSocialList extends StatelessWidget {
   const CustomerServiceSocialList({required this.items, super.key});

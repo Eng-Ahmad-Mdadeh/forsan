@@ -1,11 +1,11 @@
 import 'package:flutter/services.dart';
 import 'package:icons_plus/icons_plus.dart';
-import 'package:tamalok/core/resources/app_assets.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/core/routes/app_routes_imports.dart';
-import 'package:tamalok/presentation/widgets/custom_text_from_field.dart';
-import 'package:tamalok/presentation/widgets/image_view.dart';
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/core/resources/app_assets.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/core/routes/app_routes_imports.dart';
+import 'package:forsan/presentation/widgets/custom_text_from_field.dart';
+import 'package:forsan/presentation/widgets/image_view.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 
 class CustomInputField extends StatelessWidget {
   final bool req;

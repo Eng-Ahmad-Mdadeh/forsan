@@ -1,4 +1,4 @@
-import 'package:tamalok/core/extension/date_time_extension.dart';
+import 'package:forsan/core/extension/date_time_extension.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 

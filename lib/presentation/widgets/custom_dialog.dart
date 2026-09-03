@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:icons_plus/icons_plus.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_values.dart';
-import 'package:tamalok/presentation/widgets/text/section_title.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_values.dart';
+import 'package:forsan/presentation/widgets/text/section_title.dart';
 import '../../core/resources/app_fonts.dart';
 
 class CustomDialog extends StatelessWidget {

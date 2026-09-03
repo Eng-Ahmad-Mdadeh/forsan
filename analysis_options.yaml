@@ -26,3 +26,14 @@ linter:
 
 # Additional information about this file can be found at
 # https://dart.dev/guides/language/analysis-options
+
+analyzer:
+  exclude:
+    # Legacy building blocks are retained for future migration, but are not part
+    # of the four-page application entry point yet.
+    - lib/core/helper/**
+    - lib/core/l10n/**
+    - lib/core/services/**
+    - lib/core/utils/**
+    - lib/data/**
+    - lib/presentation/widgets/**

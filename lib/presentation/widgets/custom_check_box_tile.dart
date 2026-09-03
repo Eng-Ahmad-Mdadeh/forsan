@@ -1,7 +1,7 @@
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/presentation/cubit/check_box_tile/check_box_tile_cubit.dart';
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/presentation/cubit/check_box_tile/check_box_tile_cubit.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

@@ -1,7 +1,7 @@
-import 'package:tamalok/core/extension/localization_extension.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/core/routes/app_routes_imports.dart';
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/core/extension/localization_extension.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/core/routes/app_routes_imports.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 import 'package:icons_plus/icons_plus.dart';
 
 class StatusPill extends StatelessWidget {

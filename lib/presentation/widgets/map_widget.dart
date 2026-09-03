@@ -1,5 +1,5 @@
-import 'package:tamalok/core/routes/app_routes_imports.dart';
-import 'package:tamalok/presentation/widgets/custom_elevated_button.dart';
+import 'package:forsan/core/routes/app_routes_imports.dart';
+import 'package:forsan/presentation/widgets/custom_elevated_button.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:image_cropper/image_cropper.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_values.dart';
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_values.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 
 class MediaPickerHelper {
   final ImagePicker picker = ImagePicker();

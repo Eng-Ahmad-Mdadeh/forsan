@@ -1,13 +1,13 @@
-import 'package:tamalok/core/extension/localization_extension.dart';
-import 'package:tamalok/core/resources/app_assets.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/core/resources/app_values.dart';
-import 'package:tamalok/core/routes/app_routes.dart';
-import 'package:tamalok/core/services/locator/locator.dart';
-import 'package:tamalok/data/data_sources/auth/auth_storage_data_source.dart';
-import 'package:tamalok/presentation/widgets/custom_elevated_button.dart';
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/core/extension/localization_extension.dart';
+import 'package:forsan/core/resources/app_assets.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/core/resources/app_values.dart';
+import 'package:forsan/core/routes/app_routes.dart';
+import 'package:forsan/core/services/locator/locator.dart';
+import 'package:forsan/data/data_sources/auth/auth_storage_data_source.dart';
+import 'package:forsan/presentation/widgets/custom_elevated_button.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 

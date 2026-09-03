@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_values.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_values.dart';
 
 class LinearLoading extends StatelessWidget {
   const LinearLoading({super.key});

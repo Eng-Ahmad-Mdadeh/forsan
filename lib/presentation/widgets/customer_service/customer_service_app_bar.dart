@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/core/resources/app_values.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/core/resources/app_values.dart';
 
 class CustomerServiceAppBar extends StatelessWidget implements PreferredSizeWidget {
   const CustomerServiceAppBar({required this.title, super.key});

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/core/resources/app_values.dart';
-import 'package:tamalok/presentation/widgets/custom_text_from_field.dart';
-import 'package:tamalok/presentation/widgets/text/section_title.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/core/resources/app_values.dart';
+import 'package:forsan/presentation/widgets/custom_text_from_field.dart';
+import 'package:forsan/presentation/widgets/text/section_title.dart';
 
 class FieldItem extends StatelessWidget {
   final IconData icon;

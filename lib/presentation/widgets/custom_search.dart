@@ -3,7 +3,7 @@ import 'package:icons_plus/icons_plus.dart';
 
 import '../../core/resources/app_colors.dart';
 import '../../core/resources/app_values.dart';
-import 'package:tamalok/core/extension/localization_extension.dart';
+import 'package:forsan/core/extension/localization_extension.dart';
 import 'custom_text_from_field.dart';
 
 class CustomSearch extends StatelessWidget {

@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/core/resources/app_values.dart';
-import 'package:tamalok/presentation/cubit/biometric_lock/biometric_lock_cubit.dart';
-import 'package:tamalok/presentation/cubit/biometric_lock/biometric_lock_state.dart';
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
-import 'package:tamalok/presentation/widgets/text/section_title.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/core/resources/app_values.dart';
+import 'package:forsan/presentation/cubit/biometric_lock/biometric_lock_cubit.dart';
+import 'package:forsan/presentation/cubit/biometric_lock/biometric_lock_state.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
+import 'package:forsan/presentation/widgets/text/section_title.dart';
 
 class BiometricAppLockGate extends StatefulWidget {
   const BiometricAppLockGate({super.key, required this.child});

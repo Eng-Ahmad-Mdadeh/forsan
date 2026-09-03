@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/core/resources/app_values.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/core/resources/app_values.dart';
 
 class CustomerServiceContactButton extends StatelessWidget {
   const CustomerServiceContactButton({required this.label, required this.onPressed, required this.width, super.key});

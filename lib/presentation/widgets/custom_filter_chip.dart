@@ -1,6 +1,6 @@
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 import 'package:flutter/material.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_colors.dart';
 
 class CustomFilterChip extends StatelessWidget {
   final String text;

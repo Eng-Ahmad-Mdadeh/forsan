@@ -3,7 +3,7 @@
 
 import 'package:firebase_core/firebase_core.dart';
 import 'package:hive_flutter/adapters.dart';
-import 'package:tamalok/core/utils/firebase_options.dart';
+import 'package:forsan/core/utils/firebase_options.dart';
 
 import '../utils/firebase_notifications_handler.dart';
 import 'locator/locator.dart';

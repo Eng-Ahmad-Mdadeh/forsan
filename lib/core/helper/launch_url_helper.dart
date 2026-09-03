@@ -1,6 +1,6 @@
 import 'dart:developer';
 import 'dart:io';
-import 'package:tamalok/core/routes/app_routes.dart';
+import 'package:forsan/core/routes/app_routes.dart';
 import 'package:go_router/go_router.dart';
 import 'package:url_launcher/url_launcher.dart';
 

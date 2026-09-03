@@ -1,11 +1,11 @@
-import 'package:tamalok/core/resources/app_assets.dart';
-import 'package:tamalok/presentation/widgets/image_view.dart';
+import 'package:forsan/core/resources/app_assets.dart';
+import 'package:forsan/presentation/widgets/image_view.dart';
 import 'package:flutter/material.dart';
-import 'package:tamalok/core/extension/localization_extension.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/core/resources/app_values.dart';
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/core/extension/localization_extension.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/core/resources/app_values.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:url_launcher/url_launcher.dart';
 

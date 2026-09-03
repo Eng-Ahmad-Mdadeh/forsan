@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:icons_plus/icons_plus.dart' show Iconsax;
 import 'package:skeletonizer/skeletonizer.dart';
-import 'package:tamalok/core/resources/app_assets.dart';
-import 'package:tamalok/core/resources/app_colors.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/core/resources/app_values.dart';
-import 'package:tamalok/presentation/widgets/image_view.dart';
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
-import 'package:tamalok/presentation/widgets/text/section_title.dart';
+import 'package:forsan/core/resources/app_assets.dart';
+import 'package:forsan/core/resources/app_colors.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/core/resources/app_values.dart';
+import 'package:forsan/presentation/widgets/image_view.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
+import 'package:forsan/presentation/widgets/text/section_title.dart';
 
 class WalletBalanceCard extends StatelessWidget {
   const WalletBalanceCard({

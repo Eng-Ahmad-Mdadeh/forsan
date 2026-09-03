@@ -1,5 +1,5 @@
 // lib/core/extensions/localization_extension.dart
-import 'package:tamalok/core/l10n/app_localizations.dart' show AppLocalizations;
+import 'package:forsan/core/l10n/app_localizations.dart' show AppLocalizations;
 import 'package:flutter/widgets.dart';
 
 extension LocalizationExtension on BuildContext {

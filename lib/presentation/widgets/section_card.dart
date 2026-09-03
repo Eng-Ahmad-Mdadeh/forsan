@@ -1,6 +1,6 @@
-import 'package:tamalok/core/routes/app_routes_imports.dart';
-import 'package:tamalok/presentation/widgets/marquee_widget.dart';
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/core/routes/app_routes_imports.dart';
+import 'package:forsan/presentation/widgets/marquee_widget.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 import 'package:icons_plus/icons_plus.dart';
 
 class SectionCard extends StatelessWidget {

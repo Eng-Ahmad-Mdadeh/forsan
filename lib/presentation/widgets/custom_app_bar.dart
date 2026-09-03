@@ -1,7 +1,7 @@
 import 'package:icons_plus/icons_plus.dart';
-import 'package:tamalok/core/extension/localization_extension.dart';
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/core/routes/app_routes.dart';
+import 'package:forsan/core/extension/localization_extension.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/core/routes/app_routes.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

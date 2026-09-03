@@ -1,6 +1,6 @@
-import 'package:tamalok/core/resources/app_fonts.dart';
-import 'package:tamalok/presentation/cubit/choice_chip/choice_chip_cubit.dart';
-import 'package:tamalok/presentation/widgets/text/body_title.dart';
+import 'package:forsan/core/resources/app_fonts.dart';
+import 'package:forsan/presentation/cubit/choice_chip/choice_chip_cubit.dart';
+import 'package:forsan/presentation/widgets/text/body_title.dart';
 
 import '../../core/routes/app_routes_imports.dart';
 
